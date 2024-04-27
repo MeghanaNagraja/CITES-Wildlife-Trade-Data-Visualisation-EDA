@@ -18,4 +18,7 @@ https://www.kaggle.com/datasets/cites/cites-wildlife-trade-database
     - Data uploaded to MySQL database
     - Data queried to arrive at insights
     - Visualisation of different insigts
+
+![img8](https://github.com/MeghanaNagraja/CITES-Wildlife-Trade-Data-Visualisation-EDA/assets/122547199/292ca351-8279-46ee-9702-e5f73ddcea97)
+
     

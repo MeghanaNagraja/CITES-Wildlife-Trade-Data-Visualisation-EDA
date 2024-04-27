@@ -23,5 +23,7 @@ https://www.kaggle.com/datasets/cites/cites-wildlife-trade-database
     - Visualisation of different insigts
 
 ![img8](https://github.com/MeghanaNagraja/CITES-Wildlife-Trade-Data-Visualisation-EDA/assets/122547199/292ca351-8279-46ee-9702-e5f73ddcea97)
+![img4](https://github.com/MeghanaNagraja/CITES-Wildlife-Trade-Data-Visualisation-EDA/assets/122547199/5cc8837c-9be3-445a-9f5f-f50b00a16f0d)
+![img5](https://github.com/MeghanaNagraja/CITES-Wildlife-Trade-Data-Visualisation-EDA/assets/122547199/84f24379-9402-4937-8094-0118febafed8)
 
     

@@ -7,6 +7,9 @@ It contains columns identifying the species, the import and export countries, an
 Acknowledgment: https://trade.cites.org/ (or)
 https://www.kaggle.com/datasets/cites/cites-wildlife-trade-database
 
+![img1](https://github.com/MeghanaNagraja/CITES-Wildlife-Trade-Data-Visualisation-EDA/assets/122547199/11153236-7cbf-4b84-92b5-bdc45d83cff2)
+![img2](https://github.com/MeghanaNagraja/CITES-Wildlife-Trade-Data-Visualisation-EDA/assets/122547199/825bf5aa-5bbd-4bd8-b93f-72b695f99d6c)
+
 ## Approach
 
     - Data is downloaded directly from the website mentioned above

@@ -7,6 +7,15 @@ It contains columns identifying the species, the import and export countries, an
 Acknowledgment: https://trade.cites.org/ (or)
 https://www.kaggle.com/datasets/cites/cites-wildlife-trade-database
 
-# Approach
+## Approach
 
-  - Data is downloaded directly from the website 
+    - Data is downloaded directly from the website mentioned above
+    - Merged files have over 25 million records and therefore only animal (fauna) records were considered
+    - Data checks were done (Dropping unnecessary columns and missing values filled)
+    - All the codes of countries, purpose, source were converted to common language
+    - Inconsistent units were fixed
+    - Data was aggregated to reduce millions of records to lakhs
+    - Data uploaded to MySQL database
+    - Data queried to arrive at insights
+    - Visualisation of different insigts
+    
